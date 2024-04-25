@@ -1,6 +1,0 @@
-# ninja log v5
-1	46	7357636678499165	build.ninja	1ec563a63ef23dd5
-1	247	7357636905614735	CMakeFiles/my_first_cmake_project.dir/source.cpp.obj	9995550447387d47
-247	372	7357636906791566	my_first_cmake_project.exe	a7eb1db621380472
-1	241	7357637286149360	CMakeFiles/my_first_cmake_project.dir/source.cpp.obj	9995550447387d47
-241	304	7357637286632518	my_first_cmake_project.exe	a7eb1db621380472
